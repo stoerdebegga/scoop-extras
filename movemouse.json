@@ -11,7 +11,10 @@
   },
   "bin": "Move Mouse.exe",
   "shortcuts": [
-    "MoveMouse"
+    [
+      "Move Mouse.exe",
+      "MoveMouse"
+    ]
   ],
   "checkver": "github",
   "autoupdate": {
