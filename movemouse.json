@@ -1,7 +1,7 @@
 {
   "version": "4.16.3",
   "description": "Move Mouse is a simple piece of software that is designed to simulate user activity.",
-  "homepage": "www.movemouse.co.uk",
+  "homepage": "https://github.com/sw3103/movemouse",
   "license": "GPL",
   "architecture": {
     "64bit": {
